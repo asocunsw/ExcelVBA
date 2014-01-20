@@ -1,0 +1,12 @@
+
+Sub my_first_sub()
+    
+    MsgBox (my_first_function())
+    
+End Sub
+
+Function my_first_function()
+
+    my_first_function = "Hello World!"
+
+End Function
